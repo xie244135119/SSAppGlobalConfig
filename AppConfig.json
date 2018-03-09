@@ -17,4 +17,11 @@
                 "apnsPushKey":"",
                 "umengKey":"5aa0d8a6f29d9856bd000181",
         },
+    "com.sunset.test" : {
+                "mainURL":"https://22ypcp.com/",
+                "reviewed":1,
+                "updateAt":1520404879,
+                "apnsPushKey":"",
+                "umengKey":"5aa0d8a6f29d9856bd000181",
+        },
 }
