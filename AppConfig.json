@@ -1,10 +1,5 @@
 {
     "type": "AppConfig",
-        "com.sunset.lottery" : {
-                "mainURL":"https://22ypcp.com/",
-                "reviewed":0,
-                "updateAt":1520404714,
-        },
         "com.westamp.you" : {
                 "mainURL":"https://baidu.com/",
                 "reviewed":0,
